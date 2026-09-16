@@ -27,3 +27,5 @@
 8. Special step for development branch.
 
 9. This change will be pushed.
+
+10. This step will be kept.
