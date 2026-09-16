@@ -1,0 +1,25 @@
+1. Ensure your computer meets the following hardware requirements:
+- 64-bit operating system
+- 500 MB of available disk space
+- macOS 12 or later
+- Windows 10 or later
+
+2. Go to https://desktop.github.com/download/ and click the download button
+
+3. Install the program:
+- On Windows, run the .exe file
+- On macOS, extract the contents of the zip file and run the application file 
+
+4. Create an account by doing the following:
+- Go to https://github.com/ and click the sign-up button
+- Fill out each field appropriately
+- Enter the code from the email sent to your address
+
+5. Open GitHub Desktop and do the following:
+- Click File in the menu bar
+- Click Options from the drop down
+- In Accounts, click the sign in to GitHub.com button
+
+6. If installation has failed to complete, please contact Andrew Diggins at Andrew.diggins@tafensw.edu.au
+
+7. If you're reading this, thank you.
