@@ -28,4 +28,4 @@
 
 9. This change will be pushed.
 
-10. This step will not be kept.
+10. This step will be kept.
