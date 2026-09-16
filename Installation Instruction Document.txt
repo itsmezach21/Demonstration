@@ -23,3 +23,5 @@
 6. If installation has failed to complete, please contact Andrew Diggins at Andrew.diggins@tafensw.edu.au
 
 7. If you're reading this, thank you.
+
+8. Special step for development branch.
