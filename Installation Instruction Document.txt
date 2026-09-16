@@ -25,3 +25,5 @@
 7. If you're reading this, thank you.
 
 8. Special step for development branch.
+
+9. This change will be pushed.
